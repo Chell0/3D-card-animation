@@ -33,3 +33,7 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.sneaker img {
+    width: 20rem;
+}
