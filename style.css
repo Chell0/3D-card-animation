@@ -36,6 +36,7 @@ body {
 
 .sneaker img {
     width: 20rem;
+    z-index: 2;
 }
 
 .circle {
