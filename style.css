@@ -47,3 +47,14 @@ body {
     border-radius: 50%;
     z-index: 1;
 }
+
+.info h1 {
+    font-size: 3rem;
+}
+
+.info h3 {
+    font-size: 1.3rem;
+    padding: 2rem 0rem;
+    color: #585858;
+    font-weight: lighter;
+}
