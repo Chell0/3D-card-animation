@@ -79,3 +79,18 @@ button.active {
     background: #585858;
     color: white;
 }
+
+.purchase {
+    margin-top: 5rem;
+}
+
+.purchase button {
+    width: 100%;
+    padding: 1rem 0rem;
+    background: #f54642;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: bolder;
+}
