@@ -23,7 +23,9 @@ container.addEventListener("mouseenter", (e) => {
     // Popout
     title.style.transform = "translateZ(150px)";
     sneaker.style.transform = "translateZ(200px) rotateZ(-45deg)";
-    title.style.transform = "translateZ(150px)";
+    description.style.transform = "translateZ(125px)";
+    sizes.style.transform = "translateZ(100px)";
+    purchase.style.transform = "translateZ(75px)";
 });
 
 // Animate Out
