@@ -22,6 +22,8 @@ container.addEventListener("mouseenter", (e) => {
     card.style.transition = "none";
     // Popout
     title.style.transform = "translateZ(150px)";
+    sneaker.style.transform = "translateZ(200px) rotateZ(-45deg)";
+    title.style.transform = "translateZ(150px)";
 });
 
 // Animate Out
