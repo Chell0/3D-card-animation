@@ -32,4 +32,5 @@ container.addEventListener("mouseleave", (e) => {
     card.style.transform = `rotateY(0deg) rotateX(0deg)`;
     // Popback
     title.style.transform = "translateZ(0px)";
+    sneaker.style.transform = "translateZ(0px) rotateZ(0deg)";
 });
