@@ -35,4 +35,7 @@ container.addEventListener("mouseleave", (e) => {
     // Popback
     title.style.transform = "translateZ(0px)";
     sneaker.style.transform = "translateZ(0px) rotateZ(0deg)";
+    description.style.transform = "translateZ(0px)";
+    sizes.style.transform = "translateZ(0px)";
+    purchase.style.transform = "translateZ(0px)";
 });
