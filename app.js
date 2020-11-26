@@ -9,3 +9,8 @@ container.addEventListener("mousemove", (e) => {
 
     card.style.transform = `rotateY(${xAxis}deg) rotateX(${yAxis}deg)`;
 });
+
+// Animate Out
+container.addEventListener("mouseleave", (e) => {
+    card.style.transform = `rotateY(0deg) rotateX(0deg)`;
+});
